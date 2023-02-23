@@ -1,0 +1,13 @@
+.form-group label {
+    display: block;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: #333 solid 0.01rem;
+    margin: 0.3rem;
+    margin-left: 0;
+    position: relative;
+}
